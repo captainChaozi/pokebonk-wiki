@@ -15,5 +15,15 @@ Disclosure: I'm the developer of this wiki. It is an unofficial fan project and 
 
 ## Docs in this repo
 - [Starter picking checklist](docs/starter-checklist.md)
+- [Type matchups](docs/type-matchups.md)
+- [FAQ](docs/faq.md)
+- [How to start playing](docs/how-to-play.md)
+- [Guide index](docs/guides-index.md)
+- [Tools](docs/tools-index.md)
+- [Pokédex](docs/pokedex-index.md)
+- [Season 2](docs/season-2.md)
+- [Which PokéBonk is this?](docs/which-pokebonk.md)
+- [Languages](docs/languages.md)
+- [More games by Chaozi](docs/more-games.md)
 
 Corrections and suggestions are welcome as issues.
